@@ -13,6 +13,7 @@ https://xdvideo-file.oss-cn-shenzhen.aliyuncs.com/video/%E5%AE%98%E7%BD%91%E8%BD
       :schema="schema"
       @submit="submitHandler"
     ></cube-form>
+    我测试下更新
   </div>
 </template>
 
